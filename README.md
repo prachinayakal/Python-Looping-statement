@@ -1,5 +1,3 @@
-# Python-Looping-statement
-A simple Python code for explaining the looping statement 
 # Looping Statements in Python
 
 This Python script demonstrates the use of looping statements in Python, including the `for` loop and `while` loop.
